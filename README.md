@@ -1,16 +1,39 @@
-## Hi there 👋
+# Reloading01
 
-<!--
-**reloading01/reloading01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Penetration Tester & Full-Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I'm a cybersecurity professional and full-stack developer focused on building secure, reliable applications. I work with Django, React, and Kotlin to create robust solutions while keeping security at the forefront.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, Kotlin, Bash
+
+**Frameworks:** Django, React, Ktor
+
+**Tools:** Git, Docker, Linux
+
+**Focus Areas:**
+- Penetration Testing & Vulnerability Assessment
+- Secure Application Development
+- Full-Stack Web Development
+
+---
+
+## What I'm Working On
+
+- Security assessments and vulnerability research
+- Building secure web applications with modern frameworks
+- Contributing to open-source projects
+- Continuous learning in cybersecurity and software development
+
+---
+
+## Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss security and development topics.
